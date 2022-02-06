@@ -1,4 +1,4 @@
-const Posts = {
+module.exports = {
     "data": [
         {
             "id": 1,
@@ -3542,5 +3542,3 @@ const Posts = {
         }
     }
 }
-
-export default Posts
